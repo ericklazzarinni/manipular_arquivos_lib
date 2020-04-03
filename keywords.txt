@@ -1,0 +1,10 @@
+﻿ManipularArquivos	KEYWORD1
+testar	KEYWORD2
+criarArquivo	KEYWORD2
+listarPastas	KEYWORD2
+removerArquivo	KEYWORD2
+criarDiretorio	KEYWORD2
+removerDiretorio	KEYWORD2
+fecharArquivo	KEYWORD2
+escrever	KEYWORD2
+abrirLer	KEYWORD2

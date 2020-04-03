@@ -1,0 +1,2 @@
+ManipularArquivos KEYWORD1
+criarDiretorio KEYWORD2
